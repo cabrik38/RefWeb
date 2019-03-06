@@ -1,0 +1,30 @@
+img{
+  width:200px;
+  height: 300px;
+  float:left;
+  margin: 80px 10px 5px 10px;
+}
+.description h2 {
+  margin-left: 210px;
+}
+.description li{
+  line-height: 250%;
+  list-style-type: none;
+}
+
+.infos{
+  background-color: rgb(253, 0, 0);
+  border-radius: 20px;
+  text-transform: uppercase;
+  padding: 0px 20px;
+  margin-top:90px;
+  margin-bottom:0px;
+}
+
+.resume{
+  text-align: justify;
+}
+.caractéristique{
+  font-style: italic;
+  color: rgb(123, 0, 0);
+}

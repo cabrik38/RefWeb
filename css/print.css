@@ -1,0 +1,19 @@
+#menu, footer{
+   display:none;
+ }
+body {
+  width: auto!important;
+  margin: auto!important;
+  background-color: #fff!important;
+  color: #000!important;
+}
+p{
+  orphans: 4;
+  widows: 5;
+}
+ul{
+  page-break-inside: avoid;
+}
+h1, h2, h3{
+  page-break-after: avoid;
+}
