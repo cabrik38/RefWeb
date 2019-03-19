@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/sitemap.xml
