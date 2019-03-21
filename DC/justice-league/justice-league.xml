@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/justice-league.html</loc>
+        <lastmod>2019-03-18</lastmod>
+        <image:image>
+          <image:title>Justice-league Présentation<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/justice_league2.jpg</image:loc>
+          <image:caption>Image de présentation</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Justice-league Premier Comics<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/justice_league3.jpg</image:loc>
+          <image:caption>Image de présentation d'un premier comics</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Batman<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/batman.jpg</image:loc>
+          <image:caption>image qui mene a la page de Batman</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Wonder Woman<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/wonder-woman.jpg</image:loc>
+          <image:caption>image qui mene a la page de wonder-woman</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Superman<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/superman.jpg</image:loc>
+          <image:caption>image qui mene a la page de superman</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Aquaman<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/aquaman.jpg</image:loc>
+          <image:caption>image qui mene a la page de Aquaman</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Green Lantern<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/green-lantern.jpg</image:loc>
+          <image:caption>image qui mene a la page de Green lantern</image:caption>
+        </image:image>
+
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/batman.html</loc>
+        <lastmod>2019-03-18</lastmod>
+        <image:image>
+          <image:title>Batman Présentation<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/batman.jpg</image:loc>
+          <image:caption>Image de présentation de Batman</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/wonder-woman.html</loc>
+        <lastmod>2019-03-18</lastmod>
+        <image:image>
+          <image:title>Wonder-woman Présentation<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/wonder-woman.jpg</image:loc>
+          <image:caption>Image de présentation de Wonder Woman</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/superman.html</loc>
+        <lastmod>2019-03-18</lastmod>
+        <image:image>
+          <image:title>Superman Présentation<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/superman.jpg</image:loc>
+          <image:caption>Image de présentation de Superman</image:caption>
+        </image:image>
+    </url>
+  </urlset>

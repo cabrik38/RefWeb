@@ -3,7 +3,38 @@
     <url>
         <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/</loc>
         <lastmod>2019-03-18</lastmod>
+        <image:image>
+          <image:title>Justice-league<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/justice-league/justice_league.jpg</image:loc>
+          <image:caption>Amene vers la page de présentation de la justice league et des personnes qui la compose</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Suicide Squad<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/suicide_squad/suicide_squad.jpg</image:loc>
+          <image:caption>Amene vers la page de présentation de la suicide squad et des personnes qui la compose</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Green Arrow<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/DC/autre/green_arrow.jpg</image:loc>
+          <image:caption>Amene vers les pages des heros sans équipe</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>X-men<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/marvel/x-men/x-men.jpeg</image:loc>
+          <image:caption>Amene vers la page de présentation des x-men et des personnes qui la compose</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Avengers<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/marvel/avengers/avengers.jpg</image:loc>
+          <image:caption>Amene vers la page de présentation des avengers et des personnes qui la compose</image:caption>
+        </image:image>
+        <image:image>
+          <image:title>Daredevil<image:title>
+          <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/img/marvel/autre/daredevil.jpg</image:loc>
+          <image:caption>Amene vers les pages des heros sans équipe</image:caption>
+        </image:image>
     </url>
+
     <url>
         <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/x-men/x-men.html</loc>
         <lastmod>2019-03-18</lastmod>
@@ -13,7 +44,45 @@
         <lastmod>2019-03-18</lastmod>
     </url>
     <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/x-men/cyclops.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/x-men/wolverine.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/avengers/avengers.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/avengers/captain-america.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/avengers/iron-man.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/marvel/avengers/thor.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+
+    <url>
         <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/justice-league.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/batman.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/wonder-woman.html</loc>
+        <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~charvazf/refweb/DC/justice-league/superman.html</loc>
         <lastmod>2019-03-18</lastmod>
     </url>
    </urlset>
