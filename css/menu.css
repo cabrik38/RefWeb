@@ -1,11 +1,14 @@
 h1{
   margin-top: 50px;
 }
+
+ul {
+  padding-left: 0px;
+}
+
 ul ul{
   display:none;
   position: absolute;
-  left: 140px;
-  right: 100px;
 }
 li:hover ul.niveau-2, li li:hover ul.niveau-3{
   display:block;
@@ -19,7 +22,7 @@ footer{
 }
 
 #menu {
-  position: relative
+  position: relative;
   top: 0;
   left: 0;
   bottom : 0;
