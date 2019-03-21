@@ -40,13 +40,25 @@ footer{
   display:inline-block;
   width: 100px;
   height: 40px;
-  margin:0px;
-  padding: 0px;
-  padding-top: 20px;
+  padding: 20px 10px 0px 10px;
   text-align: center;
   line-height: 40px;
 }
 #menu li a{
   display: block;
   text-decoration: none;
+}
+
+.niveau-2 .menu {
+  display: block !important;
+}
+
+.niveau-3 {
+  position: relative;
+  left: 110px;
+  bottom: 50px;
+}
+
+.justice-league, .justice-league li {
+  width: 170px !important;
 }
